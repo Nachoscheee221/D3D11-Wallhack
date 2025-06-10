@@ -1,5 +1,5 @@
 //D3D11 wallhack by n7
-
+#include "pch.h"          
 #include <Windows.h>
 #include <intrin.h>
 #include <d3d11.h>
